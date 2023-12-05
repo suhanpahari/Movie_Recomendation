@@ -1,4 +1,6 @@
-*Movie Recommendation System using TMDB API and Python*
+**Movie Recommendation System using TMDB API and Python**
+
+
 Welcome to the Movie Recommendation System project! 🎬 This project utilizes the power of the TMDB (The Movie Database) API to create a personalized movie recommendation system in Python. If you're a movie enthusiast or just looking for your next favorite film, you're in the right place.
 
 Introduction
